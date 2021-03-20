@@ -3,7 +3,7 @@ Manages contacts with CURD operations using spring MVC and hibernate with MySQL 
 
 ## Steps to run the the Project:
 
-###### Clone the repositery "https://github.com/vkssuryawanshi/Contact-Managment.git" in your eclipse and use this as project and wait for maven build which will download all dependencies.
+###### Clone the repositery "https://github.com/vkssuryawanshi/Contact-Managment.git" in your eclipse and use this as project.
 ###### you must have the MySQL databse running on your machin in which you have to create the schema with following command.
   - CREATE SCHEMA `contact_managment`; .
   - the username is 'root' and password is 'root' for my current configuration of mysql server database.
